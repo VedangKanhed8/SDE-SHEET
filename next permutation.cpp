@@ -1,4 +1,4 @@
-/* ALGORITHMS
+/* ALGORITHM 
   1. find first index from right such that nums[index] < nums[index + 1] ... label this index as idx1
   2. find first index from right such that nums[index] > nums[idx1] .. label this index as idx2
   3. swap(nums[idx1],nums[idx2])
